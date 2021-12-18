@@ -9,4 +9,8 @@ git status -m ''
 git push
 ```
 
+If you want to pull this github changes do 
 
+```bash
+git pull
+```
